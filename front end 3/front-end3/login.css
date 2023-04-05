@@ -1,0 +1,38 @@
+body{
+    background: rgb(86, 1, 138);
+}
+.form{
+    background: rgb(46, 1, 1);
+    height: 70%;
+    width: 25%;
+    border-radius: 4%;
+    position:absolute;
+    bottom: 20%;
+    left: 40%;
+}
+.div{
+    background: rgb(46, 1, 1);
+    position:absolute;
+    bottom: 40%;
+    left: 3.3%;
+}
+.password{
+    background: rgb(14, 3, 12);
+    outline: none;
+    border-style:none;
+    width: 295px;
+    height: 50px;
+}
+.submit{
+    height: 40px;
+    width: 90px;
+    position:absolute;
+    top: 150%;
+    right: 36%;
+}
+.lolo{
+    text-align: center;
+    text-decoration: rgb(42, 3, 150);
+    font-family:cursive;
+    font-size: 35px;
+}
